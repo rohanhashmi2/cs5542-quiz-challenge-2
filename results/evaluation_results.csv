@@ -1,0 +1,4 @@
+strategy,raw_clap_mean,raw_clap_std,semantic_clap_mean,semantic_clap_std,consistency_mean,consistency_std,diversity_mean,diversity_std,tempo_mae_mean,tempo_mae_median,tempo_mae_max
+naive,19.78,13.39,31.65,15.49,0.0485,0.02,0.0557,0.0168,31.65,25.0,81.2
+structured,41.65,8.8,45.25,11.77,0.0305,0.0094,0.0404,0.0114,30.09,20.3,160.0
+structured_guidance,48.12,5.86,49.45,7.83,0.0306,0.0119,0.0379,0.0137,20.82,1.2,88.6

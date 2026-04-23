@@ -1,0 +1,18 @@
+# Core audio generation stack
+transformers>=4.40.0
+accelerate>=0.29.0
+torch>=2.0.0
+
+# Audio processing — librosa's numba dependency caps numpy at < 2.0
+numpy>=1.26,<2.0
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Audio-text evaluation (CLAP)
+laion-clap>=1.1.0
+
+# Metrics / utilities
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
