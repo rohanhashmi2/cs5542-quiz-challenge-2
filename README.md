@@ -26,7 +26,7 @@ prompt strategies and evaluated across five metrics. The central findings:
 > from their training data, and those biases do not transfer cleanly
 > across modalities.**
 
-**Demo video:** _[add YouTube/Drive link here after recording]_
+**Demo video:** [Watch on OneDrive](https://mailmissouri-my.sharepoint.com/:v:/g/personal/rahktf_umsystem_edu/IQARTgGewC4UT4b5t_-KIDOZAXOEayGFZzoyn-hp_DAH7j8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zR5FTi)
 
 ---
 
